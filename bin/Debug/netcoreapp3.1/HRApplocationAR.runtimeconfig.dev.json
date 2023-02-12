@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\facebook\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\facebook\\.nuget\\packages"
+    ]
+  }
+}
